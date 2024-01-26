@@ -1,0 +1,4 @@
+Calificación: 2/3
+
+Ejercicio 1 - tenía que usar 'some'.
+Ejercicio 2 - era un some dentro de otro some
